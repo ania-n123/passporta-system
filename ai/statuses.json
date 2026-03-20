@@ -1,0 +1,74 @@
+{
+  "unpaid": {
+    "name": "Unpaid",
+    "message": "Payment pending — your application has not been paid for yet."
+  },
+  "underpayment": {
+    "name": "Underpayment",
+    "message": "Underpayment detected — the full amount has not been received. Please complete your payment."
+  },
+  "status-0": {
+    "name": "Waiting to assign",
+    "message": "Your application has been received and is waiting to be assigned to our team."
+  },
+  "status-1": {
+    "name": "Processing",
+    "message": "Your application is currently being processed by our team."
+  },
+  "status-2": {
+    "name": "Approved",
+    "message": "Your e-visa has been approved! You should receive it by email shortly."
+  },
+  "status-3": {
+    "name": "To refund",
+    "message": "A refund for your application has been initiated. It may take up to 5 business days."
+  },
+  "status-4": {
+    "name": "Refunded",
+    "message": "Your payment has been refunded to your original payment method."
+  },
+  "status-5": {
+    "name": "Incomplete",
+    "message": "Your application is incomplete. Please check your email for instructions on what is missing."
+  },
+  "status-6": {
+    "name": "Pending",
+    "message": "Your application is pending — our team is reviewing it."
+  },
+  "status-7": {
+    "name": "On hold",
+    "message": "Your application is temporarily on hold. Please check your email or contact support."
+  },
+  "status-8": {
+    "name": "Missing documents",
+    "message": "Additional documents are required to proceed. Please check your email for details."
+  },
+  "status-9": {
+    "name": "Cancelled",
+    "message": "Your application has been cancelled."
+  },
+  "status-10": {
+    "name": "Refused",
+    "message": "Unfortunately your application has been refused by the immigration authorities."
+  },
+  "status-11": {
+    "name": "Via agent",
+    "message": "Your application is being handled by one of our agents."
+  },
+  "status-12": {
+    "name": "Pending payment",
+    "message": "Payment is pending — please complete your payment to proceed."
+  },
+  "status-13": {
+    "name": "Delayed",
+    "message": "Your application is experiencing a delay. We apologize for the inconvenience."
+  },
+  "status-14": {
+    "name": "Sensitive Data Deletion",
+    "message": "Your personal data is being securely deleted as requested."
+  },
+  "status-15": {
+    "name": "Travel Date Passed",
+    "message": "Your travel date has passed. Please contact support if you need assistance."
+  }
+}
